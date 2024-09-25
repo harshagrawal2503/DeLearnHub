@@ -15,7 +15,7 @@ Study Material AI is a chatbot specifically designed to assist users with study-
 To get started with Study Material AI, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/BoddepallyVenkatesh06/Study_Material_AI.git 
+   git clone https://github.com/harshagrawal2503/DeLearnHub/
    cd Study Material AI
 
 2. Install the Gaia Node:
