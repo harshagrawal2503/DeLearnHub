@@ -12,7 +12,7 @@ DeLearnHub AI is a chatbot specifically designed to assist users with study-mate
 - Personalized guidance and recommendations based on user inputs.
 
 ## Installation
-To get started with Study Material AI, follow these steps:
+To get started with our AI, follow these steps:
 
 1. Clone the repository:
    git clone https://github.com/harshagrawal2503/DeLearnHub/
