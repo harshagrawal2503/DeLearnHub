@@ -4,7 +4,7 @@ Study Material AI is a chatbot specifically designed to assist users with study-
 
 ## Deploy By GaiaNet Demo:
 
-`Demo URL :`: [Gaianet](https://www.gaianet.ai/chat?subdomain=0xc%2F1696b9afc77499306d0981dffa54%2Fdb1e7%2F456.us.gaianet.network)
+`Demo URL`: [Gaianet](https://www.gaianet.ai/chat?subdomain=0xc%2F1696b9afc77499306d0981dffa54%2Fdb1e7%2F456.us.gaianet.network)
 
 ## Features
 - User-friendly interface for answering career-related questions.
