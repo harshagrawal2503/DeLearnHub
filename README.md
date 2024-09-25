@@ -1,6 +1,6 @@
-# Study Material AI
+#DeLearnHub Ai
 
-Study Material AI is a chatbot specifically designed to assist users with study-material-related inquiries. By feeding data about various career options and advice into a large language model (LLM), this chatbot provides insightful information and recommendations for career decisions, identification of opportunities, and overall guidance.
+DeLearnHub AI is a chatbot specifically designed to assist users with study-material-related inquiries. By feeding data about various career options and advice into a large language model (LLM), this chatbot provides insightful information and recommendations for career decisions, identification of opportunities, and overall guidance.
 
 ## Deploy By GaiaNet Demo:
 
